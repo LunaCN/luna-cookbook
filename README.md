@@ -22,5 +22,5 @@
 	这里自然以IIS7为例。
 
 ---
-[0]:
-[1]:
+[0]:https://share.weiyun.com/bf78f65211ea424b739a4a96d3c1f66b
+[1]:https://share.weiyun.com/67c88f4b8f6c950d773b38d39d9a9f91
