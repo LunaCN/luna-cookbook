@@ -11,6 +11,11 @@
 ### 在线安装
 - [LunaInstaller][0]
 
+- luna-manager install
+  - C:\Users\bob\AppData\Local\Programs\stack\x86_64-windows
+  - C:\sr
+  - C:\LunaStudio\1.0\bin\public\luna-studio
+
 ### 离线安装
 - [LunaStudioV1.0beta][1]
 
